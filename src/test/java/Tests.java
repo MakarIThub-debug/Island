@@ -82,15 +82,6 @@ public class Tests {
         assertEquals(actual, expected);
     }
 
-//    @Test
-//    public void testSolveDistanceToMove() throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException {
-//        Field.initializationField();
-//        UndyingAnimalUtil undyingAnimalUtil = new UndyingAnimalUtil(3, 3);
-//        int[] actual = StandartClass.solveDistanceToMove("UP", undyingAnimalUtil);
-//        int[] expected = new int[]{3, 3};
-//        assertEquals(actual, expected);
-//    }
-
 
     @Test
     public void testFieldInit() {
