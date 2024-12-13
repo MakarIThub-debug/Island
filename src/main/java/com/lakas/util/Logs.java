@@ -5,6 +5,7 @@ import com.lakas.creature.Creature;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class Logs {
     private Logs(){};
 
